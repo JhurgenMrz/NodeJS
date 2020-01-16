@@ -1,0 +1,26 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "Curso práctico de NodeJS de Platzi",
+  "main": "config.js",
+  "scripts": {
+    "dev": "nodemon api/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhurgenMrz/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhurgenMrz/NodeJS/issues"
+  },
+  "homepage": "https://github.com/JhurgenMrz/NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
